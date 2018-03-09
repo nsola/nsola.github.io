@@ -1,0 +1,120 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+@media(min-width:767px) {
+    .navbar {
+        padding: 20px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+    .top-nav-collapse {
+        padding: 0;
+    }
+}
+.navbar{
+    background-color: #ff6700;
+
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+    font-size: 16px;
+
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #555;
+    background-color: #ff6900;
+}
+.navbar-default .navbar-toggle {
+    border-color: #fff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+.navbar-default .navbar-brand {
+    color: #fff;
+    font-size: 34px;
+    padding-top: 23px;
+    padding-left: 30px;
+    float: right;
+}
+.social-title{
+    color: #ff6900;
+}
+/* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
+The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
+of those sections to manage the look and feel of the site. */
+
+.intro-section {
+    padding-bottom: 45px;
+    padding-top: 120px;
+    text-align: center;
+    background: #fff;
+}
+
+.about-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #eee;
+}
+
+.services-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+.contact-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #eee;
+}
+.btn {
+    /*border-color: #ff6900;*/
+    /*border-width: 0.2em;*/
+    padding-top: 5px;
+}
+.social-div{
+    padding-top: 15px;
+}
+
+.social-btn{
+    /*float: left;*/
+    /*padding-top: 10px;*/
+}
+
+.social-btn h1 {
+    float: left;
+}
+.social-btn img {
+    height:60px;
+    text-align: center;
+    padding-bottom: 1px;
+}
+
+
+
+
+
+
+
+
+
