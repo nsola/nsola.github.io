@@ -58,6 +58,11 @@ html {
 }
 .news-title{
     color: #ff6700;
+    padding-bottom: 15px;
+}
+.news-banner-video{
+    padding-bottom: 150px;
+
 }
 /* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
 The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
@@ -78,6 +83,9 @@ of those sections to manage the look and feel of the site. */
 
 .about-section img{
     width: 300px;
+}
+.about-section iframe {
+    padding-bottom: 50px;
 }
 
 .services-section {
