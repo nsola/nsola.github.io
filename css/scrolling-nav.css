@@ -95,9 +95,18 @@ of those sections to manage the look and feel of the site. */
     padding-top: 25px;
     text-align: center;
     background: #eee;
+    padding-bottom: 15px;
 }
 .services-title{
     color: #ff6900;
+}
+.service-block img{
+    
+    height: 70px;
+}
+.service-block h5, a {
+    padding-top: 20px;
+    color: #333;
 }
 
 .contact-section {
