@@ -82,8 +82,7 @@ of those sections to manage the look and feel of the site. */
     padding-top: 50px;
     text-align: center;
     background: #fff;
-    height: 100%;
-}
+    }
 
 .about-section img{
     width: 300px;
@@ -97,7 +96,7 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
     background: #eee;
     padding-bottom: 15px;
-}
+    }
 .services-title{
     color: #ff6900;
 }
@@ -111,8 +110,7 @@ of those sections to manage the look and feel of the site. */
 }
 
 .contact-section {
-    height: 100%;
-    padding-top: 150px;
+        padding-top: 150px;
     text-align: center;
     background: #eee;
 }
